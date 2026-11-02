@@ -4,13 +4,13 @@
 
 A media recommendation service that suggests movies, TV shows, anime, books, and video games based on user selected and inputted preferences and a directory of previously enjoyed titles. The program will compare things such as genre and style to create a curated list of things to consume.
 
-# MVP Scope
+## MVP Scope
 
 - Picker for (a short spectrum of) enjoyed titles, genres, and criteria
 - Generate a ranked list of recommendations from a predefined list of media
 - Store media titles, genres, themes and descriptions in a CSV file
 
-# Future Plans
+## Future Plans
 
 - Implement machine learning for better recommendations off of user feedback
 - Profiles to save ratings and preferences
@@ -18,7 +18,7 @@ A media recommendation service that suggests movies, TV shows, anime, books, and
 - Automatic expansion of the media database
 
 
-# Tech Stack
+## Tech Stack
 
 - Language: Java
 - Java.io, java.util, JSoup
