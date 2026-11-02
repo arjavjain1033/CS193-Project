@@ -1,6 +1,6 @@
 # CS193-Project
 
-# Project Goal
+## Project Goal
 
 A media recommendation service that suggests movies, TV shows, anime, books, and video games based on user selected and inputted preferences and a directory of previously enjoyed titles. The program will compare things such as genre and style to create a curated list of things to consume.
 
